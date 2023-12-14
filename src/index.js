@@ -5,6 +5,7 @@ import './global styles/all.min.css';
 import App from './App';
 import { BrowserRouter } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import  Popper  from 'react-popper';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

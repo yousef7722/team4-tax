@@ -17,9 +17,8 @@ const Services = () => {
               <option>3</option>
               <option>4</option>
             </select>
-
             <input type="search" class="form-control col-4  ms-4 mt-5 bg-opacity-25 " placeholder="search list ..." style={{ width: "30%", color: "rgba(145, 144, 144, 0.467)" }} />
-
+                            
           </div>
           <table class="table table-hover   mt-4">
             <thead>
